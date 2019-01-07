@@ -1,18 +1,17 @@
 # Scrape-Twitter-Data-Using-Python
 
-#!/usr/bin/env python
-# encoding: utf-8
 
 import tweepy #https://github.com/tweepy/tweepy
 import csv
 
 
 
-#Twitter API credentials
-consumer_key = "IC2MiUjOszYm8zDKl1TChksPp"
-consumer_secret = "c5YV7oDhNGSkdEVBmlpz3aRF6V91IxslvPOMZuBSaEor5MXdia"
-access_key = "61221956-FP0kvLEQNfnIkBljJFaGa7Ilh1WJQrX0M07M8M8x1"
-access_secret = "lp0PJafD1vSt2vQH1uqnm1napGgPOU4Pz2Ppb0lrmfBq4"
+Twitter API credentials
+
+consumer_key = "XXXXXX"
+consumer_secret = "XXXXXX"
+access_key = "XXXXXX"
+access_secret = "XXXXXX"
 
 
 def get_all_tweets(screen_name):
@@ -67,7 +66,6 @@ def get_all_tweets(screen_name):
     
     pass
 
-
 if __name__ == '__main__':
     #pass in the username of the account you want to download
-    get_all_tweets("jokowi")
+    get_all_tweets("USERNAME")
