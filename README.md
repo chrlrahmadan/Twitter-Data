@@ -7,8 +7,8 @@ Memanfaatkan Twitter API, saya mengumpulkan data twit Joko Widodo dan Prabowo Su
 Berikut beberapa proses dan tahapan dalam analisis data. 
 
 <ul>
-  <li><a href="https://github.com/wanulfa/Scrape-Twitter-Data-Using-Python/blob/master/Python"> Scraping data Twitter dengan Python
-<li>Analisis data di Spreadsheet 
+  <li> <a href="https://github.com/wanulfa/Scrape-Twitter-Data-Using-Python/blob/master/Python"> Scraping data Twitter dengan Python
+* Analisis data di Spreadsheet 
   
   
 ## Data
